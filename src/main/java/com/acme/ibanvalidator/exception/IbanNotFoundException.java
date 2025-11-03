@@ -1,4 +1,4 @@
-package com.acme.ibanvalidator.ibanvalidator.exception;
+package com.acme.ibanvalidator.exception;
 
 public class IbanNotFoundException extends RuntimeException {
 

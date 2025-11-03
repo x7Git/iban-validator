@@ -1,4 +1,4 @@
-package com.acme.ibanvalidator.ibanvalidator.config;
+package com.acme.ibanvalidator.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

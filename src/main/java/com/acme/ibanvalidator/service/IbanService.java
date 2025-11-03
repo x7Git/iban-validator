@@ -1,4 +1,4 @@
-package com.acme.ibanvalidator.ibanvalidator.service;
+package com.acme.ibanvalidator.service;
 
 import com.acme.ibanvalidator.connector.IbanConnector;
 import com.acme.ibanvalidator.exception.IbanNotFoundException;

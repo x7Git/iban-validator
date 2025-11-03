@@ -1,4 +1,4 @@
-package com.acme.ibanvalidator.ibanvalidator.connector;
+package com.acme.ibanvalidator.connector;
 
 import com.acme.ibanvalidator.model.IbanModel;
 import com.acme.ibanvalidator.model.IbanValidationResponseModel;

@@ -1,4 +1,4 @@
-package com.acme.ibanvalidator.ibanvalidator.rest;
+package com.acme.ibanvalidator.rest;
 
 import com.acme.ibanvalidator.model.IbanModel;
 import com.acme.ibanvalidator.model.dto.BankDataModelDto;
