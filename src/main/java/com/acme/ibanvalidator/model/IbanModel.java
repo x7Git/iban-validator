@@ -1,5 +1,5 @@
 package com.acme.ibanvalidator.model;
 
-import com.acme.ibanvalidator.validation.IbanVal;
+import com.acme.ibanvalidator.validation.Iban;
 
-public record IbanModel(@IbanVal String iban) { }
+public record IbanModel(@Iban String iban) { }

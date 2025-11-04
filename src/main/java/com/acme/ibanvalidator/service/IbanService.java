@@ -21,6 +21,6 @@ public class IbanService {
         if(ibanValidationResponseModel.valid()){
             return new BankDataModelDto(ibanValidationResponseModel.bankData().name(), ibanValidationResponseModel.bankData().bic());
         }
-        throw new IbanNotFoundException("This IBAN '%s' seems not to be valid".formatted(ibanValidationResponseModel.iban()));
+        throw new IbanNotFoundException("This Iban '%s' seems not to be valid".formatted(ibanValidationResponseModel.iban()));
     }
 }
